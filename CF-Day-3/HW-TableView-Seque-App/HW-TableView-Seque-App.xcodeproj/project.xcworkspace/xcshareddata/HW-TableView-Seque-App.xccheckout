@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E8FBD211-7462-4180-878F-C177C9B17B84</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HW-TableView-Seque-App</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AF29878D38C779D5597ACC419F4E8B9EACA4518B</key>
+		<string>https://github.com/areifers/Swift-iOS-Bootcamp-2014-Code-Fellows.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CF-Day-3/HW-TableView-Seque-App/HW-TableView-Seque-App.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AF29878D38C779D5597ACC419F4E8B9EACA4518B</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/areifers/Swift-iOS-Bootcamp-2014-Code-Fellows.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AF29878D38C779D5597ACC419F4E8B9EACA4518B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AF29878D38C779D5597ACC419F4E8B9EACA4518B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Reifers-Git</string>
+		</dict>
+	</array>
+</dict>
+</plist>
