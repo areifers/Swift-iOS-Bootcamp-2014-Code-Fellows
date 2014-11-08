@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CBE09EE0-CC3C-45CC-BD06-1181C5994880</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CF-Day-4</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AF29878D38C779D5597ACC419F4E8B9EACA4518B</key>
+		<string>https://github.com/areifers/Swift-iOS-Bootcamp-2014-Code-Fellows.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CF-Day-4/CF-Day-4.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AF29878D38C779D5597ACC419F4E8B9EACA4518B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/areifers/Swift-iOS-Bootcamp-2014-Code-Fellows.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AF29878D38C779D5597ACC419F4E8B9EACA4518B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AF29878D38C779D5597ACC419F4E8B9EACA4518B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Reifers-Git</string>
+		</dict>
+	</array>
+</dict>
+</plist>
