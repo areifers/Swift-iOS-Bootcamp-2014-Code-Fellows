@@ -14,6 +14,7 @@
 		494FF84D1A0A4D2700B41312 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 494FF84B1A0A4D2700B41312 /* LaunchScreen.xib */; };
 		494FF8591A0A4D2700B41312 /* HW_TableView_Seque_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 494FF8581A0A4D2700B41312 /* HW_TableView_Seque_AppTests.swift */; };
 		494FF8661A0A4D6A00B41312 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 494FF8651A0A4D6A00B41312 /* Person.swift */; };
+		4988E8E11A0B20EC008D0AE2 /* TableViewDS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4988E8E01A0B20EC008D0AE2 /* TableViewDS.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		494FF8571A0A4D2700B41312 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		494FF8581A0A4D2700B41312 /* HW_TableView_Seque_AppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HW_TableView_Seque_AppTests.swift; sourceTree = "<group>"; };
 		494FF8651A0A4D6A00B41312 /* Person.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
+		4988E8E01A0B20EC008D0AE2 /* TableViewDS.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewDS.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 		494FF8621A0A4D2D00B41312 /* Contollers */ = {
 			isa = PBXGroup;
 			children = (
+				4988E8E01A0B20EC008D0AE2 /* TableViewDS.swift */,
 				494FF8441A0A4D2700B41312 /* ViewController.swift */,
 			);
 			name = Contollers;
@@ -241,6 +244,7 @@
 			files = (
 				494FF8661A0A4D6A00B41312 /* Person.swift in Sources */,
 				494FF8451A0A4D2700B41312 /* ViewController.swift in Sources */,
+				4988E8E11A0B20EC008D0AE2 /* TableViewDS.swift in Sources */,
 				494FF8431A0A4D2700B41312 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -433,6 +437,7 @@
 				494FF85E1A0A4D2700B41312 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		494FF85F1A0A4D2700B41312 /* Build configuration list for PBXNativeTarget "HW-TableView-Seque-AppTests" */ = {
 			isa = XCConfigurationList;
@@ -441,6 +446,7 @@
 				494FF8611A0A4D2700B41312 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
