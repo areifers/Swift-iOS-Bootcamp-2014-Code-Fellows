@@ -10,7 +10,13 @@
         "name": "Andrew Reifers"
       }
     ],
-    "diagrams": [],
+    "diagrams": [
+      {
+        "title": "First Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "Not"
   }
 }
