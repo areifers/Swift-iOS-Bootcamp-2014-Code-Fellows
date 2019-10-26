@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Something",
+    "owner": "Else",
+    "description": "Really"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Andrew Reifers"
+      }
+    ],
+    "diagrams": [],
+    "reviewer": "Not"
+  }
+}
